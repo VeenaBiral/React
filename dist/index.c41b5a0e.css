@@ -1,0 +1,21 @@
+.header {
+  border: 1px solid;
+  justify-content: space-between;
+  padding: 0 20px;
+  display: flex;
+}
+
+.logo {
+  width: 100px;
+}
+
+.nav-items > ul {
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+  font-size: 24px;
+  list-style-type: none;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
