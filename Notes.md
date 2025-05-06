@@ -73,3 +73,23 @@ style ={{color: 'red' }}
 Props
 
 passing props to component is nothing but passing arguments to functions
+
+
+
+
+key property in map method 
+
+key = {index}
+we should not use index as a key
+its not recommended
+
+import and export
+
+Default export 
+export default header
+import header form header.js
+
+Named export:
+export multiple things from file
+export const logo_url = {}
+import {} from ./constants
