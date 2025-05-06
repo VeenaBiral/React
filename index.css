@@ -18,3 +18,23 @@
   list-style-type: none;
   font-size: 24px;
 }
+
+.res-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img{
+  cursor: pointer;
+   width: 190px;
+   height: 200px;
+}
+.res-card:hover{
+  border : 2px Solid black;
+}
+
+.res-card{
+  margin:5px;
+  padding: 10px;
+  background-color: rgb(173, 180, 187);
+}
