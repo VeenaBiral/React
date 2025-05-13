@@ -91,5 +91,24 @@ import header form header.js
 
 Named export:
 export multiple things from file
-export const logo_url = {}
+export const logo_url = 
 import {} from ./constants
+
+
+React hooks
+normal js utility functions
+need to do named import from react
+import {useSate} from 'react'
+useState()
+useEffect()
+ 
+wherever a state variable updates react re-renders my component
+
+virtual dom is a copy od actual dom 
+virtual dom is nothing but JS object
+
+//React Fiber
+//Reconcillasion
+
+why is React is fast
+it does a efficient DOM manipulation(becuse of Virtuial DOM)
