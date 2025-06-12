@@ -36,9 +36,20 @@
 .res-card{
   margin:5px;
   padding: 10px;
-  background-color: rgb(173, 180, 187);
+  background-color: rgb(203, 211, 219);
 }
 
 .filter-button{
   margin: 10px;
+}
+
+.Shimmer-container{
+  display:flex
+}
+
+.Shimmer-card{
+  margin: 20px;
+  width: 200px;
+  height: 400px;
+  background-color: #f0f0f0 ;
 }
